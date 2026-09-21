@@ -39,5 +39,4 @@ and complete more projects.
 
 ## Live Website
 
-Coming soon through GitHub Pages.
 
