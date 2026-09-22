@@ -37,7 +37,7 @@ The website is designed to work on:
 I will continue updating this portfolio as I learn new technologies
 and complete more projects.
 
-##AUTHOR
+## AUTHOR
 MARK MUKAMI
 
 
