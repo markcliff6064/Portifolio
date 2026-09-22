@@ -1,7 +1,7 @@
 # Mark Mukami - Personal Portfolio
 
 This is my personal portfolio website.
-
+![COMPUTER VIEW](https://github.com/markcliff6064/Portifolio/blob/be406bbe0e0ec14ee581bb3537d940dada3c6ab0/Screenshot.jpg)
 ## About
 
 I am an ICT graduate and aspiring software developer interested in
@@ -37,6 +37,7 @@ The website is designed to work on:
 I will continue updating this portfolio as I learn new technologies
 and complete more projects.
 
-## Live Website
+##AUTHOR
+MARK MUKAMI
 
 
